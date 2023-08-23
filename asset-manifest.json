@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dharmik786/Countries-React-Redux.git/static/css/main.dc216965.css",
+    "main.js": "/Dharmik786/Countries-React-Redux.git/static/js/main.7cbc62f2.js",
+    "index.html": "/Dharmik786/Countries-React-Redux.git/index.html",
+    "main.dc216965.css.map": "/Dharmik786/Countries-React-Redux.git/static/css/main.dc216965.css.map",
+    "main.7cbc62f2.js.map": "/Dharmik786/Countries-React-Redux.git/static/js/main.7cbc62f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc216965.css",
+    "static/js/main.7cbc62f2.js"
+  ]
+}
